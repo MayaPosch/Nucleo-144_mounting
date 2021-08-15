@@ -12,6 +12,8 @@ OpenSCAD render:
 
 ![](openscad_render.png)
 
-This part was printed out using a Creality LD-002r MSLA resin printer and installed on a Nucleo-144 board, into plastic feet:
+Before and after graphic, showing the problem on the left, and the installed solution on the right:
 
-![](IMG_20210814_223848.jpg)
+![](nucleo_spacer_M3_before_after.jpg)
+
+This part was printed out using a Creality LD-002r MSLA resin printer and installed on a Nucleo-144 board, into plastic feet.
